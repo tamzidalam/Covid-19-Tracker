@@ -1,0 +1,19 @@
+
+
+.body{
+    background-color: black;
+}
+
+
+.map{
+    margin-top: 100px; 
+}
+
+
+@media only screen and (max-width: 770px) {
+    .map{
+        margin-top: 60%; 
+        width: 100%;
+    }
+    
+  }
